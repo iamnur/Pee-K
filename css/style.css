@@ -96,6 +96,10 @@ a:active {
   margin-right: 0.2rem;
 }
 
+.wrapper > p {
+  color: #4caf50;
+}
+
 /* Style inputs, select elements and textareas */
 input[type="text"],
 input[type="email"],
