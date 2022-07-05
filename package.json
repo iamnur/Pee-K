@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/iamnur/Pee-K#readme",
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   }
 }
